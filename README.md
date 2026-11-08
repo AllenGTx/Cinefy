@@ -1,8 +1,8 @@
 # 🎬 Cinefy - Movie Recommendation System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tugas-ai.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://allen-movie-recommender.streamlit.app/)
 
-🌐 **Live Demo:** [https://tugas-ai.streamlit.app](https://tugas-ai.streamlit.app)
+🌐 **Live Demo:** [https://allen-movie-recommender.streamlit.app/](https://allen-movie-recommender.streamlit.app/)
 
 **Cinefy** is an intelligent, AI-powered movie recommendation web application built with Python and **Streamlit**. It delivers personalized movie recommendations using **Content-Based Filtering** algorithms with natural language feature extraction, TF-IDF vectorization, and Cosine Distance similarity.
 
@@ -11,7 +11,7 @@
 ## 🌐 Live Web Application
 
 You can access and try the deployed live application directly here:
-👉 **[Open Cinefy on Streamlit Cloud](https://tugas-ai.streamlit.app)**
+👉 **[Open Cinefy on Streamlit Cloud](https://allen-movie-recommender.streamlit.app/)**
 
 ---
 
