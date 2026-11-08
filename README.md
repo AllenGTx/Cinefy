@@ -43,8 +43,8 @@ Cinefy acts as your personal cinema movie guide, helping users discover new film
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/AllenGTx/Tugas-AI.git
-   cd Tugas-AI
+   git clone https://github.com/AllenGTx/Cinefy.git
+   cd Cinefy
    ```
 2. Install dependencies:
    ```bash
